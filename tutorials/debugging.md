@@ -16,7 +16,7 @@ Debugging ist der Prozess der Suche nach der Antwort, warum der Code nicht funkt
   + Stackoverflow is your best friend!  
 ![Bild2](https://user-images.githubusercontent.com/14264578/145049824-89273b67-c5e3-44d8-a7fe-ad990c0d8f99.jpg)
 
-+ Fragen Sie die Community 
+  + Fragen Sie die Community 
 
 ![Bild4](https://user-images.githubusercontent.com/14264578/145050084-055c0425-efd1-4282-9792-1a9081774b63.jpg)
 
